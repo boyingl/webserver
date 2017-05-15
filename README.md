@@ -23,6 +23,8 @@ https://github.com/eisop/webserver/blob/master/README-eisop.txt
 
 
 ### Procedure
+note: a few dependencies are needed for successfully deploying the server: 
+java, javac, mercurial, apache ant
 
 1. Clone this project in the `/var/www` directory:
 
